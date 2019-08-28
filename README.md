@@ -1,5 +1,5 @@
 # ame
-Teste com dataset para cargo de data scientist na Ame Digital
+*Teste com dataset para cargo de data scientist na Ame Digital*
 
 O desafio consistia em prever o interesse dos clientes em relação a produtos do tipo panelas em um webcomerce. Um arquivo .csv foi fornecido com diversos exemplos de panelas e suas características.
 
