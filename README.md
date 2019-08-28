@@ -1,15 +1,15 @@
 # ame
-*Teste com dataset para cargo de data scientist na Ame Digital*
+## *Teste com dataset para cargo de data scientist na Ame Digital*
 
 O desafio consistia em prever o interesse dos clientes em relação a produtos do tipo panelas em um webcomerce. Um arquivo .csv foi fornecido com diversos exemplos de panelas e suas características.
 
 A estratégia utilizada para a predição solicitada foi implementada utilizando Python 3.6 e as seguintes bibliotecas:
 
--Pandas
--Numpy
--Scipy
--Matplotlib
--Scikit-Learn
+* Pandas
+* Numpy
+* Scipy
+* Matplotlib
+* Scikit-Learn
 
 Os dados foram importados para um Pandas dataframe e o processo de normatização dos dados foi feito em diversas etapas. 
 
